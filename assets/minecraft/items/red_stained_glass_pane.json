@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/red_stained_glass_pane"
+        },
+        "cases": [
+            {
+                "when": "blackflash1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/blackflash1"
+                }
+			},
+			{
+				"when": "blackflash2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/blackflash2"
+				}
+            },
+			{
+				"when": "blackflash3",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/blackflash3"
+				}
+			},
+			{
+				"when": "blackflash4",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/blackflash4"
+                }
+            },
+			{
+				"when": "red1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/red1"
+                }
+            },
+			{
+				"when": "red2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/red2"
+                }
+            }
+        ]
+    }
+}

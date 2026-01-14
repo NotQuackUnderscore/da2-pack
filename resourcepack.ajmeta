@@ -1,0 +1,18 @@
+{
+    "version": "0.4.8",
+    "projects": {
+        "d6eda63a-1b91-40ae-cd8c-3430e2dc6601": {
+            "project_name": "test",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\yuji\\head.json",
+                "assets\\animated_java\\models\\item\\yuji\\body.json",
+                "assets\\animated_java\\models\\item\\yuji\\armr.json",
+                "assets\\animated_java\\models\\item\\yuji\\arml.json",
+                "assets\\animated_java\\models\\item\\yuji\\legr.json",
+                "assets\\animated_java\\models\\item\\yuji\\legl.json",
+                "assets\\animated_java\\textures\\item\\yuji\\yuji_itadori.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

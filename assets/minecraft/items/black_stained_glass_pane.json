@@ -1,0 +1,89 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/black_stained_glass_pane"
+        },
+        "cases": [
+            {
+                "when": "red3",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/red3"
+                }
+			},
+			{
+				"when": "slash1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash1"
+				}
+            },
+			{
+				"when": "slash2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash2"
+				}
+			},
+			{
+				"when": "slash3",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash3"
+                }
+            },
+			{
+				"when": "slash4",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash4"
+                }
+            },
+			{
+				"when": "slash5",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash5"
+                }
+            },
+			{
+				"when": "slash6",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash6"
+                }
+            },
+			{
+				"when": "slash7",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash7"
+                }
+            },
+			{
+				"when": "slash8",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash8"
+                }
+            },
+			{
+				"when": "slash9",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/slash9"
+                }
+            },
+			{
+				"when": "red1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/red1"
+                }
+            }
+        ]
+    }
+}

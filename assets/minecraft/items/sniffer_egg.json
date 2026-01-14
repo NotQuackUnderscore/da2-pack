@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/sniffer_egg"
+        },
+        "cases": [
+            {
+                "when": "yuji",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/yuji"
+                }
+            }
+        ]
+    }
+}
